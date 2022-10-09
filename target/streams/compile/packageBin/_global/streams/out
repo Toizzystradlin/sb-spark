@@ -1,0 +1,21 @@
+[debug] Packaging C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\data_mart_2.11-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	data_mart$$anonfun$1.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$$anonfun$1.class
+[debug] 	data_mart$$anonfun$2.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$$anonfun$2.class
+[debug] 	data_mart$$typecreator4$1.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$$typecreator4$1.class
+[debug] 	data_mart$$typecreator5$1.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$$typecreator5$1.class
+[debug] 	data_mart$.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$.class
+[debug] 	data_mart$delayedInit$body.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart$delayedInit$body.class
+[debug] 	data_mart.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\data_mart.class
+[debug] 	Main$.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  C:\Users\BSPB\IdeaProjects\data_mart\target\scala-2.11\classes\Main.class
+[debug] Done packaging.
