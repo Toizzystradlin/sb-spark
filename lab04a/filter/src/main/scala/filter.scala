@@ -7,9 +7,9 @@ object filter extends App{
   spark.conf.set("spark.sql.session.timeZone", "UTC")
   import spark.implicits._
 
-  val offset: String = spark.sparkContext.getConf.get("offset")
-  val topicName: String = spark.sparkContext.getConf.get("topic_name")
-  val outputDirPrefix: String = spark.sparkContext.getConf.get("output_dir_prefix")
+  val offset: String = spark.sparkContext.getConf.get("spark.filter.offset")
+  val topicName: String = spark.sparkContext.getConf.get("spark.filter.topic_name")
+  val outputDirPrefix: String = spark.sparkContext.getConf.get("spark.filter.output_dir_prefix")
 
   val finalOffset = if (offset.contains("earliest"))
     offset
