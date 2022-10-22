@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\BSPB\PycharmProjects\agg\target\scala-2.11\agg_2.11-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	agg$.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\agg\target\scala-2.11\classes\agg$.class
+[debug] 	agg$delayedInit$body.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\agg\target\scala-2.11\classes\agg$delayedInit$body.class
+[debug] 	agg.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\agg\target\scala-2.11\classes\agg.class
+[debug] Done packaging.
