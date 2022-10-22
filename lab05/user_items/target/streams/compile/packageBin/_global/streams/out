@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\user_items_2.11-1,0.jar ...
+[debug] Input file mappings:
+[debug] 	users_items$$anonfun$1.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\classes\users_items$$anonfun$1.class
+[debug] 	users_items$$anonfun$2.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\classes\users_items$$anonfun$2.class
+[debug] 	users_items$.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\classes\users_items$.class
+[debug] 	users_items$delayedInit$body.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\classes\users_items$delayedInit$body.class
+[debug] 	users_items.class
+[debug] 	  C:\Users\BSPB\PycharmProjects\user_items\target\scala-2.11\classes\users_items.class
+[debug] Done packaging.
